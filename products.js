@@ -11,28 +11,17 @@ const products = [
     },
   },
   {
-    id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
-    name: 'Mesa para la Cocina',
-    price: 22000,
+    id: 'price_1NneefAxZTwSHD8yBnE0dTbB',
+    name: 'Dunk Low Spartan Green',
+    price: 12000,
     currency: 'EUR',
-    image: '/zapatillas/mesita-cocina.jpg',
+    image: '/zapatillas/nike-dunk-low-spartan.jpeg',
     rating: {
-      count: 75,
+      count: 137,
       rate: 4.5,
     },
   },
   {
-    id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
-    name: 'Estantería Salón',
-    price: 50000,
-    currency: 'EUR',
-    image: '/zapatillas/estanteria-salon.jpg',
-    rating: {
-      count: 25,
-      rate: 5,
-    },
-  },
-   {
     id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
     name: 'Dunk Low Panda',
     price: 10000,
@@ -44,27 +33,38 @@ const products = [
     },
   },
   {
-    id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
-    name: 'Mesa para la Cocina',
-    price: 22000,
+    id: 'price_1NneefAxZTwSHD8yBnE0dTbB',
+    name: 'Dunk Low Spartan Green',
+    price: 12000,
     currency: 'EUR',
-    image: '/zapatillas/mesita-cocina.jpg',
+    image: '/zapatillas/nike-dunk-low-spartan.jpeg',
     rating: {
-      count: 75,
+      count: 137,
       rate: 4.5,
     },
   },
   {
     id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
-    name: 'Estantería Salón',
-    price: 50000,
+    name: 'Dunk Low Panda',
+    price: 10000,
     currency: 'EUR',
-    image: '/zapatillas/estanteria-salon.jpg',
+    image: '/zapatillas/nike-nike-dunk-panda.jpg',
     rating: {
-      count: 25,
-      rate: 5,
+      count: 85,
+      rate: 4.5,
     },
-  }
+  },
+  {
+    id: 'price_1NneefAxZTwSHD8yBnE0dTbB',
+    name: 'Dunk Low Spartan Green',
+    price: 12000,
+    currency: 'EUR',
+    image: '/zapatillas/nike-dunk-low-spartan.jpeg',
+    rating: {
+      count: 137,
+      rate: 4.5,
+    },
+  },
 ];
 
 export default products;
