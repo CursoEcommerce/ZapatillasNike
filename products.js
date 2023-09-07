@@ -1,6 +1,6 @@
 const products = [
   {
-    id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
+    id: 'price_1NnqybBf7R2Aru6Sxp7BYMKj',
     name: 'Dunk Low Panda',
     price: 10000,
     currency: 'EUR',
@@ -11,7 +11,7 @@ const products = [
     },
   },
   {
-    id: 'price_1NneefAxZTwSHD8yBnE0dTbB',
+    id: 'price_1Nnr0DBf7R2Aru6SPhZXodzo',
     name: 'Dunk Low Spartan Green',
     price: 12000,
     currency: 'EUR',
@@ -22,7 +22,7 @@ const products = [
     },
   },
   {
-    id: 'price_1NneRHAxZTwSHD8ynUzAcVRa',
+    id: 'price_1NnqybBf7R2Aru6Sxp7BYMKj',
     name: 'Dunk Low Panda',
     price: 10000,
     currency: 'EUR',
