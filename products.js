@@ -56,12 +56,12 @@ const products = [
   },
   {
     id: 'price_1NneefAxZTwSHD8yBnE0dTbB',
-    name: 'Dunk Low Spartan Green',
-    price: 12000,
+    name: 'Dunk Low Retro White Picante',
+    price: 28000,
     currency: 'EUR',
-    image: '/zapatillas/nike-dunk-low-spartan.jpeg',
+    image: '/zapatillas/zapatilla-nike-dunk-low-retro-white-picante-red.jpeg',
     rating: {
-      count: 137,
+      count: 127,
       rate: 4.5,
     },
   },
