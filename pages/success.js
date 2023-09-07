@@ -37,7 +37,7 @@ const Success = () => {
       ) : (
         <div className="py-4 px-8 rounded-md bg-gray-100 max-w-lg mx-auto">
           <h2 className="text-4xl font-semibold flex flex-col items-center space-x-1">
-            <CheckIcon className="w-12 h-12 flex-shrink-0 text-green-600" />
+            <AiFillCheckCircle className="w-12 h-12 flex-shrink-0 text-green-600" />
             <span>Gracias por tu pedido!</span>
           </h2>
           <p className="text-lg mt-3">Mira la factura en tu email.</p>
