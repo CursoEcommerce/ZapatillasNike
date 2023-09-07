@@ -3,7 +3,7 @@ import { useRouter } from 'next/router';
 import useSWR from 'swr';
 import { useShoppingCart } from '@/hooks/use-shopping-cart';
 import { fetcher, shootFireworks } from '@/lib/utils';
-import { CheckIcon } from '@heroicons/react/outline';
+import { AiFillCheckCircle } from 'react-icons/ai';
 
 const Success = () => {
   const {
