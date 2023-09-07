@@ -9,7 +9,7 @@ const Footer = () => (
         className="text-gray-500 hover:text-current"
       >
         Copyright 2023
-        por Nombre Empresa
+        por ZapatillasNike
       </a>
     </p>
   </footer>
